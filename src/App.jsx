@@ -7,8 +7,8 @@ import User from "./User";
 const App = () => {
   return (
     <>
-      {/* <ChangeTitle /> */}
-      <User />
+      <ChangeTitle />
+      {/* <User /> */}
     </>
   );
 };
